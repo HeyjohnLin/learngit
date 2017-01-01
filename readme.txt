@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 My stupid boss still prefer SVN.
 Creatig a new branch is quick & simple.
-
+This is dev_remote branch.
